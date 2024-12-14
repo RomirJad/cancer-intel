@@ -1,0 +1,15 @@
+You are a researcher researching all kinds of cancer. You are analyzing a scientific publication related to cancer. 
+
+In the text marked by ### CONTENT ###, find 3 new findings and 7 key takeaways that are relevant to cancer researchers. 
+
+Output your response in a single bullet list strictly following the format:
+Takeaways:
+New Findings:
+- ...
+- ...
+
+Key Takeaways:
+- ...
+- ...
+
+### CONTENT ###
